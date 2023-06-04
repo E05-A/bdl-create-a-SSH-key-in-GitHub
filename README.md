@@ -31,5 +31,5 @@ cat ~/.ssh/id_rsa.pub
 - Paste the contents of your clipboard into the **Key** field.
 - Click the **Add SSH key** button.
 
-Congratulations! You have now created an SSH key using Ubuntu and added it to your GitHub account. You can use this SSH key to securely authenticate with GitHub repositories and services.
+Congratulations! You have now created an SSH key and added it to your GitHub account. You can use this SSH key to securely authenticate with GitHub repositories and services.
 
