@@ -1,5 +1,5 @@
 # SSH Key in GitHub
-## To crate an SSH Key in GitHub, you can follow these steps:
+## To create an SSH Key in GitHub, you can follow these steps:
 1. **Open Terminal:** Launch the Terminal application on your Ubuntu system. You can do this by pressing Ctrl+Alt+T or by searching for "Terminal" in the application launcher.
 2. **Generate SSH key:** In the Terminal, enter the following command:
 
